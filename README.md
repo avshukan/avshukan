@@ -1,4 +1,52 @@
-### Hi there 👋
+<h1 align="center">Приветствую!<br />Меня зовут Александр Шукан</h1>
+
+### 🔍 Ищу работу
+* Frontend разработчика</h3>
+
+
+
+### 📖 Контакты
+[![Gmail Badge](https://img.shields.io/badge/-avshukan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:avshukan@gmail.com)](mailto:avshukan@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-avshukan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avshukan/)](https://www.linkedin.com/in/avshukan/)
+[![Telegram Badge](https://img.shields.io/badge/-avshukan-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/avshukan)
+
+
+
+### 🛠 Языки и инструменты
+![JavaScript](https://img.shields.io/badge/JavaScript-282C34?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Nodejs](https://img.shields.io/badge/Nodejs-black?style=for-the-badge&logo=Node.js)
+![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Nodejs](https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express-282C34?logo=express&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white)
+![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-282C34?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Eslint](https://img.shields.io/badge/ESLint-282C34?logo=eslint&logoColor=4B32C3)
+![Jest](https://img.shields.io/badge/Jest-282C34?logo=jest&logoColor=C21325)
+
+![Oracle](https://img.shields.io/badge/Oracle-ff0000?style=for-the-badge&logo=oracle&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Styled components](https://img.shields.io/static/v1?label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093)
+
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![VSCode](https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC)
+
+
+___
+![Github Stats](https://github-readme-stats.vercel.app/api?username=avshukan&title_color=0074D9&text_color=E5C07B&icon_color=2ECC40&border_color=30363D&bg_color=161B22&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avshukan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+___
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=avshukan)
+
+
 
 <!--
 **avshukan/avshukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
