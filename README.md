@@ -13,14 +13,9 @@
 
 
 ### 🛠 Языки и инструменты
-![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
 ![Nodejs](https://img.shields.io/badge/node.js-68A063.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express-68A063?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/react%20-%2300D9FF.svg?&style=for-the-badge&logo=react&logoColor=white)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-white?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=black)
 ![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Redux](https://img.shields.io/badge/Redux-282C34?style=for-the-badge&logo=redux&logoColor=764ABC)
 ![Eslint](https://img.shields.io/badge/ESLint-282C34?style=for-the-badge&logo=eslint&logoColor=4B32C3)
