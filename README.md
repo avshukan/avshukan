@@ -1,13 +1,13 @@
 <h1 align="center">Приветствую!<br />Меня зовут Александр Шукан</h1>
 
 ### 🔍 Ищу работу
-* Frontend разработчика</h3>
+* Frontend разработчик
 
 
 
 ### 📖 Контакты
 [![Gmail Badge](https://img.shields.io/badge/-avshukan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:avshukan@gmail.com)](mailto:avshukan@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-avshukan-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avshukan/)](https://www.linkedin.com/in/avshukan/)
+[![Linkedin Badge](https://img.shields.io/badge/-avshukan-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avshukan/)](https://www.linkedin.com/in/avshukan/)
 [![Telegram Badge](https://img.shields.io/badge/-avshukan-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/avshukan)
 
 
