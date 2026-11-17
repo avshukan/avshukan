@@ -1,56 +1,62 @@
-<h1 align="center">Приветствую!<br />Меня зовут Александр Шукан</h1>
+# Hi, I'm Alexander 👋
 
-### 📖 Контакты
-[![Gmail Badge](https://img.shields.io/badge/-avshukan@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:avshukan@gmail.com)](mailto:avshukan@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-avshukan-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/avshukan/)](https://www.linkedin.com/in/avshukan/)
-[![Telegram Badge](https://img.shields.io/badge/-avshukan-0088cc?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/avshukan)
+**Backend Engineer | Curious Builder**
 
+I build backend services with Node.js and TypeScript, currently working in fintech.
 
+I care about reliable systems, maintainable code, and thoughtful engineering.
 
-### 🛠 Языки и инструменты
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=F0DB4F)
-![Nodejs](https://img.shields.io/badge/node.js-68A063.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-68A063?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![React](https://img.shields.io/badge/React-282C34?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Redux](https://img.shields.io/badge/Redux-282C34?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Eslint](https://img.shields.io/badge/ESLint-282C34?style=for-the-badge&logo=eslint&logoColor=4B32C3)
-![Jest](https://img.shields.io/badge/Jest-282C34?style=for-the-badge&logo=jest&logoColor=C21325)
+Outside of work, I enjoy exploring new technologies, experimenting with ideas, and building my own projects.
 
-![Oracle](https://img.shields.io/badge/Oracle-ff0000?style=for-the-badge&logo=oracle&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
+## 🛠 Tech Stack
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Styled components](https://img.shields.io/static/v1?style=for-the-badge&label=&message=styled-components&color=282C34&logo=styled-components&logoColor=DB7093)
+**Backend**
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-black?style=for-the-badge&logo=docker)
-![VSCode](https://img.shields.io/badge/VS%20Code-282C34?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
+**Data & Messaging**
 
-___
-![Github Stats](https://github-readme-stats.vercel.app/api?username=avshukan&title_color=0074D9&text_color=E5C07B&icon_color=2ECC40&border_color=30363D&bg_color=161B22&show_icons=true&cache_seconds=1800&locale=en&border_radius=5&hide=,issues,&count_private=true&include_all_commit=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avshukan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-___
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=avshukan)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 
+**Tools & Testing**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-<!--
-**avshukan/avshukan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### [Ranking Vote](https://github.com/avshukan/rank-vote)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A ranked-choice voting app using the Borda count. A playground for exploring software architecture, deployment, and AI-assisted development workflows.
+
+[Live app](https://rankvote.avshukan.com)
+
+### [Photo Puzzle](https://github.com/avshukan/photo-puzzle)
+
+A browser-based 15-puzzle built with React and TypeScript. A small experiment in frontend architecture and user experience.
+
+[Live app](https://puzzle-photo.avshukan.com)
+
+## 🔍 Currently Exploring
+
+I'm exploring agent-driven software development — experimenting with AI coding agents, development workflows, and new ways to build software.
+
+## 📖 Beyond Coding
+
+Outside of coding, I enjoy reading, running, and writing.
+
+I keep a [personal blog](https://t.me/operation_y) about life, ideas, and things that catch my attention — mostly unrelated to software development.
+
+## 🤝 Let's Connect
+
+I'm open to collaborating on interesting projects, exploring new ideas, and building things together. Feel free to reach out!
+
+[Email](mailto:avshukan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/avshukan/) · [Telegram](https://t.me/avshukan)
